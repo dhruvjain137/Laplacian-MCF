@@ -1,5 +1,5 @@
 # Laplacian-MCF
-"[A PDE-Driven Laplacian Multi-Exposure Fusion for Structure-Preserving Image](https://dergipark.org.tr/en/pub/saucis/article/1860558)" 【[Paper](https://dergipark.org.tr/en/pub/saucis/article/1860558)】,【[Code](https://github.com/dhruvjain137/Laplacian-MCF)】.
+"A PDE-Driven Laplacian Multi-Exposure Fusion for Structure-Preserving Image" 【[Paper](https://dergipark.org.tr/en/pub/saucis/article/1860558)】,【[Code](https://github.com/dhruvjain137/Laplacian-MCF)】.
 
 ## To Test
 Run `main.m` to test the method.
