@@ -6,6 +6,7 @@ Run `main.m` to test the method.
 
 ## Framework
 ![image](https://github.com/dhruvjain137/Laplacian-MCF/blob/main/Laplacian_MCF/proposed.png)
+
 Overview of the proposed method.
 
 ## If this work is helpful to you, please cite it as：
