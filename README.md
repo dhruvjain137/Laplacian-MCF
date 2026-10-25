@@ -1,5 +1,7 @@
 # Laplacian-MCF
-"A PDE-Driven Laplacian Multi-Exposure Fusion for Structure-Preserving Image" 【[Paper](https://dergipark.org.tr/en/pub/saucis/article/1860558)】,【[Code](https://github.com/dhruvjain137/Laplacian-MCF)】.
+This repository contains the MATLAB implementation of the proposed method:
+
+> **"A Guided Filter Multi-Exposure Fusion with Wiener-Enhanced Pixel Significance in DCHWT for Halo Artifact Suppression" [Paper](https://dergipark.org.tr/en/pub/saucis/article/1860558)】,【[Code](https://github.com/dhruvjain137/Laplacian-MCF)】**
 
 ## To Test
 Run `main.m` to test the method.
